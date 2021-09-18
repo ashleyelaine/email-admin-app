@@ -1,4 +1,4 @@
-# email-admin-app
+# Email Admin App
 Java console app that generates an email address for a new employee.
 
 - Generates an eamil with the following syntax: firstname.lastname@department.company.com
